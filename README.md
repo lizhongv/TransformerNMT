@@ -43,9 +43,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
-切换语言
-
-英语
-Model parameters can be set in `config.py`
+Model parameters can be set in `config.py`. </br>
+Adopt `nn.DataParallel` distributed training method, by setting `os.environ['CUDA_VISIBLE_DEVICES']` using multi-GPU training.
 
