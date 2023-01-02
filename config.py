@@ -35,9 +35,9 @@ data_dir = './data'
 train_data_path = './data/json/train.json'
 dev_data_path = './data/json/dev.json'
 test_data_path = './data/json/test.json'
-model_path = '/data2/lizhong/transformers/ChineseNMT/experiment/with_NoamOpt_no_LabelSmoothing_model.pth'
-log_path = './experiment/train.log'
-output_path = './experiment/output.txt'
+model_path = './log/model.pth'
+log_path = './log/train.log'
+output_path = './log/output.txt'
 
 logger = set_logger(log_path)
 # gpu_id and device id is the relative id
