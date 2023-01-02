@@ -51,6 +51,7 @@ Adopt `nn.DataParallel` distributed training method, by setting `os.environ['CUD
 On the training set, the best model is reached after 32 cycles of training, with a loss of 2.23 on the training set, 4.10 on the validation set, and a BLEU score of 26.07.
 
 - Test
+
 | Beam_size   | 2 |  3 | 4 | 5 |
 | :-------: | :-------: | :-------: | :------: | :----------:|
 | Bleu | 26.67 | 26.81 | 26.84 | 26.87 |
