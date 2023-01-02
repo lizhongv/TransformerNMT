@@ -74,3 +74,6 @@ translation:
 ```
 但霍华德·赫伯特作为电影生产商,航空所有者他在20世纪首代美国人出现的最富有美国人之一。 
 ```
+
+## Pretrained Model
+If you need it, you can contact me.
