@@ -33,3 +33,19 @@ This is a `Transformer` based neural machine translation(NMT) model.
 | Dataset   | train |  dev |  test |
 | :-------: | :-------: | :-------: | :------: |
 | size | 176943 | 25278 | 50556 |
+
+## Model 
+[harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
+
+## Requirements
+```
+pip install -r requirements.txt
+```
+
+## Usage
+
+切换语言
+
+英语
+Model parameters can be set in `config.py`
+
